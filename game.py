@@ -7,7 +7,6 @@ def game():
 	while userGuesses != compGuesses:
              print 'Nope! Try again!'
              if userGuesses > compGuesses:
-
                  print "your number is bigger than true."
              if userGuesses < compGuesses:
                  print "your number is smaller than true."
