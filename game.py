@@ -1,3 +1,4 @@
+#this just a game
 import random
 print 'Well can you guess my number? It is between 1 and 20. Enter a number now!'
 def game():
